@@ -152,5 +152,4 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 <br>
 
 ## Authors :black_nib:
-* **Bryson Nyamwange** <[brysonwaisi](https://github.com/brysonwaisi)>
-* **Flovian Owiti** <[flovian](https://github.com/flovian)>
+* **Tshwarelo Phukubje** <[mtshwari](https://github.com/mtshwari)>
